@@ -10,13 +10,13 @@ Technology Design, Implementation & Optimisation.
 </div>
 
 
-## Currently
+## Current Role
 
 Manager, Technology and Operations Consulting at Talent Collective
 
-### Specialised in
+### Personal Profile
 
-Recruitment, Onboarding and Integration solutions
+A highly adaptable technology leader with a demonstrated history of delivering customer-oriented solutions that achieve core-business goals. Global professional services experience across corporate, government and not-for-profit sectors, bringing industry insights to develop strategies for business growth.
 
 ## Education
 
