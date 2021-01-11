@@ -13,8 +13,6 @@ Technology Design, Implementation & Optimisation.
 
 A highly adaptable technology leader with a demonstrated history of delivering customer-oriented solutions that achieve core-business goals. Global professional services experience across corporate, government and not-for-profit sectors, bringing industry insights to develop strategies for business growth.
 
-
-
 ## Occupation
 
 `Dec 2020 - Present`
@@ -26,18 +24,20 @@ Talent Collective
 `May 2019 - Dec 2020`
 __Technology and Partnerships Manager__  
 Harrier Human Capital  
+
 Leading the Harrier Talent Solutions technology partnerships and consulting function, owning business process design and implementation of solutions for prospects and clients. 
-Continuity Management: Managed HR vendor solutions across 5 clients, ensuring effective solutions through ongoing optimisation and upgrades.
-Technical Design: Developed technology sales collateral for tender and bidding processes. Formulating technical documentation to meet stringent client and prospect security needs.
-Strategic Partnerships: Secured 150+ best-in-market technology vendors to ensure top market technology solutions for clients.
+- Continuity Management: Managed HR vendor solutions across 5 clients, ensuring effective solutions through ongoing optimisation and upgrades.
+- Technical Design: Developed technology sales collateral for tender and bidding processes. Formulating technical documentation to meet stringent client and prospect security needs.
+- Strategic Partnerships: Secured 150+ best-in-market technology vendors to ensure top market technology solutions for clients.
 
 `May 2018 - May 2019`
 __Technology Specialist__  
 Harrier Human Capital  
-Leading the Harrier Talent Solutions technology partnerships and consulting function, owning business process design and implementation of solutions for prospects and clients. 
-*Continuity Management:* Managed HR vendor solutions across 5 clients, ensuring effective solutions through ongoing optimisation and upgrades.
-*Technical Design:* Developed technology sales collateral for tender and bidding processes. Formulating technical documentation to meet stringent client and prospect security needs.
-*Strategic Partnerships:* Secured 150+ best-in-market technology vendors to ensure top market technology solutions for clients.
+Directed the design, implementation and embedding of a recruitment technology solution as part of a transformation project at Deakin University. 
+
+- Program Leadership: Key technical resource for the program, owning the relationship with university departments and providing project status updates for program and senior leadership.
+- Technical Development: Guided technical development in a complex organisational hierarchy with internal departments such as Cyber Security, Solutions Architecture, Marketing and Infrastructure.
+- Stakeholder Engagement: Change management for 200+ end users through tailored demos, workshops and training sessions.  
 
 `Jan 2018 - May 2018`
 __Technology Consultant__  
