@@ -18,7 +18,7 @@ A highly adaptable technology leader with a demonstrated history of delivering c
 ## Occupation
 
 `Dec 2020 - Present`
-###__Manager, Technology and Operations Consulting__  
+### Manager, Technology and Operations Consulting  
 __Talent Collective__
 - Warden
 - Minted coins
