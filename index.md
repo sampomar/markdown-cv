@@ -67,13 +67,15 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Occupation
 
 `Dec 2020 - Present`
-__Talent Colective__, Melbourne
+__Manager, Technology and Operations Consulting__  
+Talent Collective
 
 - Warden
 - Minted coins
 
 `May 2019 - Dec 2020`
-__Technology and Partnerships Manager__, Harrier Human Capital
+__Technology and Partnerships Manager__  
+Harrier Human Capital
 
 
 
