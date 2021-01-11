@@ -48,28 +48,11 @@ Discovery Church, Mount Evelyn
 - Tennis and snowboarding<br>
 - Home automation and security<br>
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Occupation
 
 `Dec 2020 - Present`
 __Manager, Technology and Operations Consulting__  
 Talent Collective
-
 - Warden
 - Minted coins
 
@@ -77,8 +60,21 @@ Talent Collective
 __Technology and Partnerships Manager__  
 Harrier Human Capital
 
+`May 2018 - May 2019`
+__Technology Specialist__  
+Harrier Human Capital
 
+`Jan 2018 - May 2018`
+__Technology Consultant__  
+Plexus Legal
 
+`Apr 2017 - Jan 2018`
+__Client Solutions Lead__  
+PageUp
+
+`Jan 2014 - Apr 2017`
+__Implementation Consultant__  
+PageUp
 <!-- ### Footer
 
 Last updated: Jan 2021 -->
