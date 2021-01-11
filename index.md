@@ -14,7 +14,7 @@ Technology Design, Implementation & Optimisation.
 
 Manager, Technology and Operations Consulting at Talent Collective
 
-### Specialized in
+### Specialised in
 
 Recruitment, Onboarding and Integration solutions
 
