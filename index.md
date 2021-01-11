@@ -18,18 +18,26 @@ A highly adaptable technology leader with a demonstrated history of delivering c
 ## Occupation
 
 `Dec 2020 - Present`
-### Manager, Technology and Operations Consulting  
-__Talent Collective__
+__Manager, Technology and Operations Consulting__  
+Talent Collective
 - Warden
 - Minted coins
 
 `May 2019 - Dec 2020`
 __Technology and Partnerships Manager__  
-Harrier Human Capital
+Harrier Human Capital  
+Leading the Harrier Talent Solutions technology partnerships and consulting function, owning business process design and implementation of solutions for prospects and clients. 
+Continuity Management: Managed HR vendor solutions across 5 clients, ensuring effective solutions through ongoing optimisation and upgrades.
+Technical Design: Developed technology sales collateral for tender and bidding processes. Formulating technical documentation to meet stringent client and prospect security needs.
+Strategic Partnerships: Secured 150+ best-in-market technology vendors to ensure top market technology solutions for clients.
 
 `May 2018 - May 2019`
 __Technology Specialist__  
-Harrier Human Capital
+Harrier Human Capital  
+Leading the Harrier Talent Solutions technology partnerships and consulting function, owning business process design and implementation of solutions for prospects and clients. 
+*Continuity Management:* Managed HR vendor solutions across 5 clients, ensuring effective solutions through ongoing optimisation and upgrades.
+*Technical Design:* Developed technology sales collateral for tender and bidding processes. Formulating technical documentation to meet stringent client and prospect security needs.
+*Strategic Partnerships:* Secured 150+ best-in-market technology vendors to ensure top market technology solutions for clients.
 
 `Jan 2018 - May 2018`
 __Technology Consultant__  
