@@ -1,59 +1,52 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Samuel Margerison's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Samuel Margerison
+Technology Design, Implementation & Optimisation.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="samuelmargerison@gmail.com">samuelmargerison@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Manager, Technology and Operations Consulting at Talent Collective
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Recruitment, Onboarding and Integration solutions
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Bachelor of Commerce (Management)`
+__Swinburne Institute of Technology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Certificate in Agile Project Management`
+__Charles Sturt University__
 
-- Sizar
+`Certificate in Design-led Strategy`
+__Univeristy of Sydney__
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Certificate IV in Training and Assessment`
+__First Choice Training__
 
-- Fellow
+## Community Involvement
 
+`2016 - Present`
+Young Adults Leader
+Hillsong Church, Melbourne
 
+`2012 - 2016`
+Youth Leader
+Discovery Church, Mount Evelyn
 
-## Awards
+## Hobbies & Interests
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Music production and recording
+Tennis and snowboarding
+Home automation and security
 
 ### Journals
 
