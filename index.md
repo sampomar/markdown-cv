@@ -6,7 +6,7 @@ title: Samuel Margerison's CV
 Technology Design, Implementation & Optimisation.
 
 <div id="webaddress">
-<a href="samuelmargerison@gmail.com">samuelmargerison@gmail.com</a>
+<a href="mailto:samuelmargerison@gmail.com">samuelmargerison@gmail.com</a>
 </div>
 
 
@@ -42,12 +42,6 @@ Hillsong Church, Melbourne
 Youth Leader
 Discovery Church, Mount Evelyn
 
-## Hobbies & Interests
-
-- Music production and recording<br>
-- Tennis and snowboarding<br>
-- Home automation and security<br>
-
 ## Occupation
 
 `Dec 2020 - Present`
@@ -75,6 +69,26 @@ PageUp
 `Jan 2014 - Apr 2017`
 __Implementation Consultant__  
 PageUp
+
+## Professional Skills
+
+* Project Management
+* Change Management
+* Agile Methodologies
+* ITIL framework
+* Business Analysis
+* Data Visualisation
+* Industry research and thought leadership
+* Design-Led Strategy
+* Emotional Intelligence
+* Interpersonal skills
+* SQL
+
+## Hobbies & Interests
+
+- Music production and recording<br>
+- Tennis and snowboarding<br>
+- Home automation and security<br>
 
 
 <!-- ### Footer
