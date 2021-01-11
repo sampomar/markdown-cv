@@ -75,8 +75,11 @@ PageUp
 `Jan 2014 - Apr 2017`
 __Implementation Consultant__  
 PageUp
+
+
 <!-- ### Footer
 
 Last updated: Jan 2021 -->
+
 
 
