@@ -44,9 +44,9 @@ Discovery Church, Mount Evelyn
 
 ## Hobbies & Interests
 
-Music production and recording<br>
-Tennis and snowboarding<br>
-Home automation and security<br>
+- Music production and recording<br>
+- Tennis and snowboarding<br>
+- Home automation and security<br>
 
 ### Journals
 
