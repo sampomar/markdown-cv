@@ -9,14 +9,39 @@ Technology Design, Implementation & Optimisation.
 <a href="mailto:samuelmargerison@gmail.com">samuelmargerison@gmail.com</a>
 </div>
 
-
-## Current Role
-
-Manager, Technology and Operations Consulting at Talent Collective
-
-### Personal Profile
+## Personal Profile
 
 A highly adaptable technology leader with a demonstrated history of delivering customer-oriented solutions that achieve core-business goals. Global professional services experience across corporate, government and not-for-profit sectors, bringing industry insights to develop strategies for business growth.
+
+
+
+## Occupation
+
+`Dec 2020 - Present`
+###__Manager, Technology and Operations Consulting__  
+__Talent Collective__
+- Warden
+- Minted coins
+
+`May 2019 - Dec 2020`
+__Technology and Partnerships Manager__  
+Harrier Human Capital
+
+`May 2018 - May 2019`
+__Technology Specialist__  
+Harrier Human Capital
+
+`Jan 2018 - May 2018`
+__Technology Consultant__  
+Plexus Legal
+
+`Apr 2017 - Jan 2018`
+__Client Solutions Lead__  
+PageUp
+
+`Jan 2014 - Apr 2017`
+__Implementation Consultant__  
+PageUp
 
 ## Education
 
@@ -41,34 +66,6 @@ Hillsong Church, Melbourne
 `2012 - 2016`
 Youth Leader
 Discovery Church, Mount Evelyn
-
-## Occupation
-
-`Dec 2020 - Present`
-__Manager, Technology and Operations Consulting__  
-Talent Collective
-- Warden
-- Minted coins
-
-`May 2019 - Dec 2020`
-__Technology and Partnerships Manager__  
-Harrier Human Capital
-
-`May 2018 - May 2019`
-__Technology Specialist__  
-Harrier Human Capital
-
-`Jan 2018 - May 2018`
-__Technology Consultant__  
-Plexus Legal
-
-`Apr 2017 - Jan 2018`
-__Client Solutions Lead__  
-PageUp
-
-`Jan 2014 - Apr 2017`
-__Implementation Consultant__  
-PageUp
 
 ## Professional Skills
 
