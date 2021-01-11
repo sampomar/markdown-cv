@@ -66,14 +66,14 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Dec 2020 - Present`
+__Talent Colective__, Melbourne
 
 - Warden
 - Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`May 2019 - Dec 2020`
+__Technology and Partnerships Manager__, Harrier Human Capital
 
 
 
